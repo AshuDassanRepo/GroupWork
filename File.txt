@@ -1,5 +1,0 @@
-This is a test file.
-
-Another line I am adding.
-
-Kevin added this line
